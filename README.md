@@ -30,3 +30,4 @@
   - df.loc[]
   - df.iloc[]
   - df.rename()
+  - df.drop()
