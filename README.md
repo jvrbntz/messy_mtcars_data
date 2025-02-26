@@ -23,3 +23,5 @@
   - df.plot(kind="plot_name")
   - df.groupby()
   - df.sort_values()
+  - df.loc[]
+  - df.iloc[]
