@@ -1,4 +1,4 @@
-unnamed , Mpg, cyl ,disp  , hp,drat,  w t,  qsec,vs,am ,  gear,carb
+unnamed , Mpg, cyl ,disp  , horse Power,drat,  w t,  qsec,vs,am ,  gear,carb
 Mazda RX4,21,6,160,110,3.9,2.62,16.46,0,1,4,4
 Mazda RX4 Wag,,6,160,110,3.9,2.875,17,0,1,4,4
 Datsun 710,22.8,4,108,93,3.85,2.32,18.61,1,1,4,1
